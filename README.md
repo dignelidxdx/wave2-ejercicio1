@@ -1,1 +1,1 @@
-# wave2-ejercicio1
+# wave2-exercise1
